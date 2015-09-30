@@ -1,5 +1,0 @@
-# -*- mode: mandoku-view; -*-
-#+TITLE: 御選明臣奏議
-#+DATE: 2015-08-24 22:34:01.848869
-#+PROPERTY: ID KR2f0041
-#+PROPERTY: BASEEDITION WYG    
